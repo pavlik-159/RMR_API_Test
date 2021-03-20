@@ -1,0 +1,18 @@
+{
+  "name": "rmr_api_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
